@@ -1,7 +1,7 @@
 # Network-Tracking
 This program offers a simple, structured way to log meaningful contacts in your personal or professional network. It helps users remember names, events, job titles, and shared interests from in-person meetings.
 
-Unlike social platforms like LinkedIn, this tool is built for quick, personal record-keeping — ideal for those who attend events, conferences, or meet new people often.
+Unlike social platforms like LinkedIn, this tool is built for quick, personal record-keeping. Ideal for those who attend events, conferences, or meet new people often.
 
 Upon running the program:
 
